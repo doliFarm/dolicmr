@@ -1,0 +1,72 @@
+#  Copyright (C) 2022 Luigi Grillo - luigi.grillo@gmail.com (http://luigigrillo.com)
+#  Last update: 05/01/2022
+#
+# This program is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <https://www.gnu.org/licenses/>.
+
+#
+# Generic
+#
+
+# Module label 'ModuleDOLICMRName'
+ModuleDOLICMRName = DOLICMR
+# Module description 'ModuleDOLICMRDesc'
+ModuleDOLICMRDesc = DOLICMR description
+
+#
+# Admin page
+#
+DOLICMRSetup = DOLICMR setup
+Settings = Settings
+DOLICMRSetupPage = DOLICMR setup page
+DOLICMR_MYPARAM1 = Template file
+DOLICMR_MYPARAM1Tooltip = Sepcify the CMR template file
+DOLICMR_MYPARAM2=API
+DOLICMR_MYPARAM2Tooltip=Sepcify the e-CMR api
+
+
+#
+# About page
+#
+About = About
+DOLICMRAbout = About DOLICMR
+DOLICMRAboutPage = DOLICMR about page
+
+#
+# Sample page
+#
+MyPageName = My page name
+
+#
+# Sample widget
+#
+DOLICMRWidget = DOLICMR widget
+DOLICMRWidgetDescription = DOLICMR widget description
+
+#
+# Labels
+#
+GenerateCMR=CMR
+CMRArea=CMR
+TVA=TVA
+Tel=Tel.
+Shipment=Shipment
+ExtraNote=Extra Note
+ShipmentModeSelectError=Shipment mode does not exist
+ShipmentDoesNotExist=Shipment does not exist
+numberOfINDUPallet=Numbner of INDU Pallet
+numberOfEUROPallet=Numbner of EURO Pallet
+c_incotermsDoesNotExist=Incoterm has not been specified
+Incoterm=Incoterm
+CMRGenerated=CMR has been generated
+ORIGINEITALIA= Origine Italia
